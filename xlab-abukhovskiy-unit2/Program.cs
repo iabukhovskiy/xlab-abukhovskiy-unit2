@@ -14,7 +14,7 @@ namespace xlab_abukhovskiy_unit2
             int b;
             b = a;
 
-            byte b;
+            byte b1;
             sbyte sb;
             short s;
             ushort us;

@@ -1,0 +1,7 @@
+C:\Users\user\xlab-abukhovskiy-unit2\xlab-abukhovskiy-unit2\obj\Debug\xlab-abukhovskiy-unit2.csproj.AssemblyReference.cache
+C:\Users\user\xlab-abukhovskiy-unit2\xlab-abukhovskiy-unit2\obj\Debug\xlab-abukhovskiy-unit2.csproj.CoreCompileInputs.cache
+C:\Users\user\xlab-abukhovskiy-unit2\xlab-abukhovskiy-unit2\bin\Debug\xlab-abukhovskiy-unit2.exe.config
+C:\Users\user\xlab-abukhovskiy-unit2\xlab-abukhovskiy-unit2\bin\Debug\xlab-abukhovskiy-unit2.exe
+C:\Users\user\xlab-abukhovskiy-unit2\xlab-abukhovskiy-unit2\bin\Debug\xlab-abukhovskiy-unit2.pdb
+C:\Users\user\xlab-abukhovskiy-unit2\xlab-abukhovskiy-unit2\obj\Debug\xlab-abukhovskiy-unit2.exe
+C:\Users\user\xlab-abukhovskiy-unit2\xlab-abukhovskiy-unit2\obj\Debug\xlab-abukhovskiy-unit2.pdb
