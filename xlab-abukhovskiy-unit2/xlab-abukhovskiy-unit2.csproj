@@ -44,7 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="XLab_online_course_Beginner_developer_material_files_2.2_Script.cs" />
+    <Compile Include="XLab_online_course_Beginner_developer_material_files_2.3_NewBehaviourScript.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
